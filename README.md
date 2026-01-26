@@ -1,5 +1,5 @@
-# mutiny
-Mutiny Motors - The open source affordable truck
+# Mutiny Motors - The open source affordable truck
+
 
 
 
