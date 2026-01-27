@@ -1,9 +1,19 @@
 # Mutiny Motors - The open source affordable truck
 
+# THE MISSION:
+To build an affordable truck for everyone.
+That means:
+1. Open source. You can build your own, modify it, fork it, do whatever you want.
+2. Affordable.
+3. Repairable.
+4. Useful.
+5. Durable.
+6. Detroit-made.
+7. By people paid a thriving wage.
 
 
 
-
+----
 CERN Open Hardware Licence Version 2 - Strongly Reciprocal
 
 
