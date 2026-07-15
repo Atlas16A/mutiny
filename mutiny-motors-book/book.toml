@@ -2,3 +2,6 @@
 title = "Project: Mutiny"
 authors = ["Atlas16A"]
 language = "en"
+
+[output.html]
+site-url = "/mutiny/"
