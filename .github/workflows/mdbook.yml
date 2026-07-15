@@ -41,7 +41,8 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Build with mdBook
-        run: mdbook build
+        run: mdbook build -d .
+        working-directory: ./mutiny
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
